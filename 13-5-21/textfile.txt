@@ -1,0 +1,2 @@
+Hi there, this is np lab program
+see if this text is received on the other side
